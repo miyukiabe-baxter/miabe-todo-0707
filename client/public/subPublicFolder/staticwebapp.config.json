@@ -35,14 +35,6 @@
     },
     {
       "route": "test-2"
-    },
-    {
-      "route": "test2e",
-      "methods": [
-        "post",
-        "head",
-        "get"
-      ]
     }
   ],
   "auth": {
