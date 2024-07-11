@@ -34,7 +34,7 @@
       "redirect": "/.auth/logout"
     },
     {
-      "route": "test"
+      "route": "test-2"
     }
   ],
   "auth": {
