@@ -11,6 +11,9 @@
     },
     {
       "route": "test4"
+    },
+    {
+      "route": "test5"
     }
   ]
 }
