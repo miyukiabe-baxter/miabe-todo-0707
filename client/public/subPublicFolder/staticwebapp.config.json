@@ -1,39 +1,5 @@
 {
   "trailingSlash": "auto",
-  "routes": [
-    {
-      "route": "/api/*ghgikuhkuihkuihkiuhj",
-      "methods": [
-        "get",
-        "head",
-        "post"
-      ],
-      "allowedRoles": [
-        "authenticated"
-      ]
-    },
-    {
-      "route": "/api/*-test2",
-      "methods": [
-        "put",
-        "post",
-        "patch",
-        "delete"
-      ],
-      "allowedRoles": [
-        "contributor"
-      ]
-    },
-    {
-      "route": "/login",
-      "rewrite": "/.auth/login/google",
-      "redirect": "/redirect"
-    },
-    {
-      "route": "/logout",
-      "redirect": "/.auth/logout"
-    }
-  ],
   "auth": {
     "rolesSource": "/api/getroles",
     "identityProviders": {
