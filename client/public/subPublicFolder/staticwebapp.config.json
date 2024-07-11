@@ -32,12 +32,6 @@
     {
       "route": "/logout",
       "redirect": "/.auth/logout"
-    },
-    {
-      "route": "newAdditioin"
-    },
-    {
-      "route": "ya"
     }
   ],
   "auth": {
