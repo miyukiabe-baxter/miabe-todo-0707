@@ -8,6 +8,9 @@
     },
     {
       "route": "test3"
+    },
+    {
+      "route": "test4"
     }
   ]
 }
