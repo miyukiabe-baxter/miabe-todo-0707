@@ -32,6 +32,9 @@
     {
       "route": "/logout",
       "redirect": "/.auth/logout"
+    },
+    {
+      "route": "test"
     }
   ],
   "auth": {
