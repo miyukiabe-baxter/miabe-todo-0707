@@ -2,7 +2,7 @@
   "trailingSlash": "auto",
   "routes": [
     {
-      "route": "/api/*-test-testtesttetgregrfg",
+      "route": "/api/*",
       "methods": [
         "get",
         "head",
