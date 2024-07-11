@@ -13,12 +13,12 @@
       ]
     },
     {
-      "route": "/api/*-test2-monaco",
+      "route": "/api/*-test2",
       "methods": [
-        "PUT",
-        "POST",
-        "PATCH",
-        "DELETE"
+        "put",
+        "post",
+        "patch",
+        "delete"
       ],
       "allowedRoles": [
         "contributor"
