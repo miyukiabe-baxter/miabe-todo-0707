@@ -35,6 +35,9 @@
     },
     {
       "route": "newAdditioin"
+    },
+    {
+      "route": "ya"
     }
   ],
   "auth": {
