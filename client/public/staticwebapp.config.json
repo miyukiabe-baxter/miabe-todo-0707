@@ -1,5 +1,7 @@
-[
-  {
-    "routes": "movedFileFromClientTopublic-client/public"
-  }
-]
+{
+  "routes": [
+    {
+      "route": "pleasepleaseplease"
+    }
+  ]
+}
