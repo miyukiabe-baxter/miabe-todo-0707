@@ -2,6 +2,9 @@
   "routes": [
     {
       "route": "profile-test-2"
+    },
+    {
+      "route": "terager"
     }
   ]
 }
