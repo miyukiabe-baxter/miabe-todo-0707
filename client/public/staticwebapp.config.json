@@ -4,7 +4,10 @@
       "route": "pleasepleaseplease"
     },
     {
-      "route": "nnonolop-----"
+      "route": "nnonolop-----",
+      "methods": [
+        "head"
+      ]
     }
   ]
 }
