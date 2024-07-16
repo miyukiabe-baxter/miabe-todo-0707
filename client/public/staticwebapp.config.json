@@ -4,9 +4,6 @@
       "route": "underPublic"
     },
     {
-      "route": "test"
-    },
-    {
       "route": "anothertest"
     }
   ]
