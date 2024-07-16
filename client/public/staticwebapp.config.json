@@ -1,7 +1,7 @@
 {
   "routes": [
     {
-      "route": "/underProfile"
+      "route": "/underProfile-test"
     }
   ]
 }
