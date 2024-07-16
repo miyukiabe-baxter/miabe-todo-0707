@@ -2,6 +2,9 @@
   "routes": [
     {
       "route": "underPublic"
+    },
+    {
+      "route": "test"
     }
   ]
 }
