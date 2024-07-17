@@ -29,6 +29,9 @@
     {
       "route": "/logout",
       "redirect": "/.auth/logout"
+    },
+    {
+      "route": "addingOneMore"
     }
   ],
   "auth": {
