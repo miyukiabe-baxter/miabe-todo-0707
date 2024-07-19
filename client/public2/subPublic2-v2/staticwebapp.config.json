@@ -8,6 +8,9 @@
     },
     {
       "route": "test"
+    },
+    {
+      "route": "/profile"
     }
   ]
 }
