@@ -1,0 +1,13 @@
+{
+  "routes": [
+    {
+      "route": "/test-refres----yeah"
+    },
+    {
+      "route": "another"
+    },
+    {
+      "route": "test"
+    }
+  ]
+}
