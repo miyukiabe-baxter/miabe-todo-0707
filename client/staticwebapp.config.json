@@ -5,6 +5,9 @@
     },
     {
       "route": "another"
+    },
+    {
+      "route": "test"
     }
   ]
 }
